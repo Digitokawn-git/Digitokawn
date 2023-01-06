@@ -789,6 +789,13 @@ section {
   font-weight: 700;
 }
 
+.call-to-action h5 {
+  color: #fff;
+  font-size: 22px;
+  margin-bottom: 25px;
+  font-weight: 600;
+}
+
 .call-to-action p {
   color: #fff;
   margin-bottom: 25px;
